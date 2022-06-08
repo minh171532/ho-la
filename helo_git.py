@@ -1,3 +1,3 @@
 print("minh dep trai")
 
-print("Dai dap trai")
+print("Dai dep trai ngau loi")
